@@ -21,4 +21,4 @@ variable "ec2_type" {
 variable "ec2_key_name" {
   type    = string
   default = "newKey"
-}
+} #test
